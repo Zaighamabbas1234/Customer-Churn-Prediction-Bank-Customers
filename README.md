@@ -93,7 +93,7 @@ No Churn          TN       FP
 Churn             FN       TP
 ```
 This helps understand the types of correct and incorrect predictions.
-# Technologies Used
+# Technologies Used:
 | Technology          | Purpose                          |
 | ------------------- | -------------------------------- |
 | 🐍 Python           | Programming and Machine Learning |
