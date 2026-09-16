@@ -145,3 +145,7 @@ Customer churn prediction can help organizations:
 # Disclaimer:
 This project is created for **educational and portfolio purposes**.
 Predictions should be validated before being used in real-world business decisions.
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
