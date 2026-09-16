@@ -94,7 +94,15 @@ Churn             FN       TP
 ```
 This helps understand the types of correct and incorrect predictions.
 # Technologies Used
-
+| Technology          | Purpose                          |
+| ------------------- | -------------------------------- |
+| 🐍 Python           | Programming and Machine Learning |
+| 🐼 Pandas           | Data manipulation and analysis   |
+| 🔢 NumPy            | Numerical computation            |
+| 📊 Matplotlib       | Data visualization               |
+| 🎨 Seaborn          | Statistical visualization        |
+| 🤖 Scikit-learn     | Machine Learning                 |
+| 📓 Jupyter Notebook | Interactive development          |
 # Project Structure:
 ```text
 Customer-Churn-Prediction-Bank-Customers/
